@@ -1,0 +1,7 @@
+"*.log" 
+"*.h5" 
+"*.h5" 
+*.docx
+*.pdf
+venv/
+__pycache__/
